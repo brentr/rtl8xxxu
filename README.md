@@ -8,8 +8,9 @@ typically installed at:
 
 The alternative driver at:
   https://github.com/brentr/rtl8723bu.git
-is derived from the RealTek's source and has its firmware
-embedded in the source of driver.
+
+is derived from the RealTek's source and has its firmware embedded in the source of driver.
+
 It is 900KB (vs. 550KB), but draws only 25% of the power.
 
 # You get to choose.
